@@ -1,0 +1,1 @@
+shallot-build-for-windows
